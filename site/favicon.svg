@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" rx="6" fill="#981e32"/>
+  <!-- the Palouse: rolling hills in two greys under a crimson sky, a mark of the place, not the university's -->
+  <path d="M0 21 C 6 14, 11 14, 16 19 S 26 24, 32 17 V 32 H 0 Z" fill="#a7b0b5"/>
+  <path d="M0 27 C 5 21, 12 22, 17 25 S 27 29, 32 23 V 32 H 0 Z" fill="#5e6a71"/>
+  <circle cx="24" cy="9" r="3" fill="#f2e6d0"/>
+</svg>

@@ -1,0 +1,10 @@
+{
+  "_": "Off-season blurbs for the Teams view's form block (app.js renderTeamForm): shown before a season starts and once one is well over. Plain text, one per team slug. Edit freely — nothing generates this file.",
+  "cougars": "The Cougars' season runs late August to November at Martin Stadium, six home Saturdays, with a bowl beyond that; kickoff times fill in above as the networks set them, usually six to twelve days out.",
+  "cougarshoops": "Cougar basketball opens at Beasley Coliseum in early November and runs to the Pac-12 Tournament in March; ESPN publishes the regular season once the preseason is under way, and the games fill in above then.",
+  "vandals": "The Vandals' season runs late August to November in the Kibbie Dome, with the FCS playoffs beyond that for the Big Sky's top sides; kickoff times fill in above as they are set.",
+  "vandalshoops": "Vandal basketball opens at ICCU Arena in early November and runs to the Big Sky Tournament in March; ESPN publishes the regular season once the preseason is under way, and the games fill in above then.",
+  "seahawks": "Mike Macdonald's third season in charge opens at Lumen Field. Flex-week kickoffs fill in above as the league confirms them.",
+  "mariners": "Spring training opens in Peoria in February and the regular season in late March; the schedule above fills in once MLB publishes it. Cal Raleigh and Julio Rodríguez remain the core of the lineup.",
+  "kraken": "A new season at Climate Pledge Arena. The Kraken open on the road and are home within the first week."
+}

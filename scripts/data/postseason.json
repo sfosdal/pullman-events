@@ -1,0 +1,220 @@
+{
+  "_": "Each club's postseason for the season in hand — the rounds, their dates and the final's site — shown in the Teams view as 'if they qualify' until the real games arrive (the schedules flag those playoff: true, and a round with a real game in its window gives way to it). Hand-kept: update each season from the leagues' announcements. tbd: true marks a round whose dates are the usual calendar, not yet announced. Drafted 2026-10-11 from the usual calendars: the Pac-12 title game and the CFP for the Cougars, the FCS playoffs for the Vandals (the Big Sky plays no title game), the conference and NCAA tournaments for the basketball sides; the three Seattle clubs copied from everett-events — keep them in step with it.",
+  "cougars": {
+    "season": "2026",
+    "rounds": [
+      {
+        "name": "Pac-12 Championship",
+        "start": "2026-12-05",
+        "end": "2026-12-05",
+        "tbd": true
+      },
+      {
+        "name": "CFP First Round",
+        "start": "2026-12-19",
+        "end": "2026-12-20",
+        "tbd": true
+      },
+      {
+        "name": "CFP Quarterfinals",
+        "start": "2026-12-31",
+        "end": "2027-01-01",
+        "tbd": true
+      },
+      {
+        "name": "CFP Semifinals",
+        "start": "2027-01-08",
+        "end": "2027-01-09",
+        "tbd": true
+      },
+      {
+        "name": "CFP National Championship",
+        "start": "2027-01-18",
+        "end": "2027-01-18",
+        "tbd": true,
+        "final": true
+      }
+    ]
+  },
+  "cougarshoops": {
+    "season": "2026–27",
+    "rounds": [
+      {
+        "name": "Pac-12 Tournament",
+        "start": "2027-03-09",
+        "end": "2027-03-13",
+        "site": "Las Vegas",
+        "tbd": true
+      },
+      {
+        "name": "NCAA Tournament, first and second rounds",
+        "start": "2027-03-18",
+        "end": "2027-03-21",
+        "tbd": true
+      },
+      {
+        "name": "Sweet 16 and Elite Eight",
+        "start": "2027-03-25",
+        "end": "2027-03-28",
+        "tbd": true
+      },
+      {
+        "name": "Final Four",
+        "start": "2027-04-03",
+        "end": "2027-04-05",
+        "tbd": true,
+        "final": true
+      }
+    ]
+  },
+  "vandals": {
+    "season": "2026",
+    "rounds": [
+      {
+        "name": "FCS Playoffs, first round",
+        "start": "2026-11-28",
+        "end": "2026-11-28",
+        "tbd": true
+      },
+      {
+        "name": "Second round",
+        "start": "2026-12-05",
+        "end": "2026-12-05",
+        "tbd": true
+      },
+      {
+        "name": "Quarterfinals",
+        "start": "2026-12-11",
+        "end": "2026-12-12",
+        "tbd": true
+      },
+      {
+        "name": "Semifinals",
+        "start": "2026-12-18",
+        "end": "2026-12-19",
+        "tbd": true
+      },
+      {
+        "name": "FCS Championship",
+        "start": "2027-01-04",
+        "end": "2027-01-04",
+        "tbd": true,
+        "final": true
+      }
+    ]
+  },
+  "vandalshoops": {
+    "season": "2026–27",
+    "rounds": [
+      {
+        "name": "Big Sky Tournament",
+        "start": "2027-03-06",
+        "end": "2027-03-10",
+        "site": "Boise",
+        "tbd": true
+      },
+      {
+        "name": "NCAA Tournament, first and second rounds",
+        "start": "2027-03-18",
+        "end": "2027-03-21",
+        "tbd": true
+      },
+      {
+        "name": "Sweet 16 and Elite Eight",
+        "start": "2027-03-25",
+        "end": "2027-03-28",
+        "tbd": true
+      },
+      {
+        "name": "Final Four",
+        "start": "2027-04-03",
+        "end": "2027-04-05",
+        "tbd": true,
+        "final": true
+      }
+    ]
+  },
+  "seahawks": {
+    "season": "2026",
+    "rounds": [
+      {
+        "name": "Wild Card",
+        "start": "2027-01-16",
+        "end": "2027-01-18"
+      },
+      {
+        "name": "Divisional",
+        "start": "2027-01-23",
+        "end": "2027-01-24"
+      },
+      {
+        "name": "NFC Championship",
+        "start": "2027-01-31",
+        "end": "2027-01-31"
+      },
+      {
+        "name": "Super Bowl LXI",
+        "start": "2027-02-14",
+        "end": "2027-02-14",
+        "site": "SoFi Stadium, Inglewood",
+        "final": true
+      }
+    ]
+  },
+  "mariners": {
+    "season": "2026",
+    "rounds": [
+      {
+        "name": "Wild Card Series",
+        "start": "2026-09-29",
+        "end": "2026-10-01"
+      },
+      {
+        "name": "Division Series",
+        "start": "2026-10-03",
+        "end": "2026-10-10"
+      },
+      {
+        "name": "ALCS",
+        "start": "2026-10-12",
+        "end": "2026-10-20"
+      },
+      {
+        "name": "World Series",
+        "start": "2026-10-23",
+        "end": "2026-10-31",
+        "final": true
+      }
+    ]
+  },
+  "kraken": {
+    "season": "2026–27",
+    "rounds": [
+      {
+        "name": "Stanley Cup Playoffs, first round",
+        "start": "2027-04-12",
+        "end": "2027-04-30",
+        "tbd": true
+      },
+      {
+        "name": "Second round",
+        "start": "2027-05-01",
+        "end": "2027-05-15",
+        "tbd": true
+      },
+      {
+        "name": "Conference Final",
+        "start": "2027-05-16",
+        "end": "2027-06-01",
+        "tbd": true
+      },
+      {
+        "name": "Stanley Cup Final",
+        "start": "2027-06-03",
+        "end": "2027-06-20",
+        "tbd": true,
+        "final": true
+      }
+    ]
+  }
+}

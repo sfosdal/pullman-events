@@ -1,0 +1,82 @@
+{
+ "events": [
+  {
+   "venue": "Kibbie Dome",
+   "title": "Idaho Vandals Football vs Lamar Cardinals",
+   "date": "2026-09-12",
+   "time": "13:00:00",
+   "url": "https://govandals.com/sports/football/tickets",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "ESPN+"
+    ]
+   }
+  },
+  {
+   "venue": "Martin Stadium",
+   "title": "Washington State Cougars Football vs Duquesne Dukes",
+   "date": "2026-09-19",
+   "time": "12:30:00",
+   "url": "https://wsucougars.com/sports/football/schedule",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "USA Net"
+    ]
+   }
+  },
+  {
+   "venue": "Kibbie Dome",
+   "title": "Idaho Vandals Football vs Abilene Christian Wildcats",
+   "date": "2026-09-19",
+   "time": "13:00:00",
+   "url": "https://govandals.com/sports/football/tickets",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "ESPN+"
+    ]
+   }
+  },
+  {
+   "venue": "Martin Stadium",
+   "title": "Washington State Cougars Football vs Arizona Wildcats",
+   "date": "2026-09-26",
+   "time": "16:30:00",
+   "url": "https://wsucougars.com/sports/football/schedule",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "CBS"
+    ]
+   }
+  },
+  {
+   "venue": "Kibbie Dome",
+   "title": "Idaho Vandals Football vs Montana State Bobcats",
+   "date": "2026-10-02",
+   "time": "19:30:00",
+   "url": "https://govandals.com/sports/football/tickets",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "ESPN"
+    ]
+   }
+  },
+  {
+   "venue": "Martin Stadium",
+   "title": "Washington State Cougars Football vs Fresno State Bulldogs",
+   "date": "2026-10-03",
+   "time": "18:30:00",
+   "url": "https://wsucougars.com/sports/football/schedule",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "USA Net"
+    ]
+   }
+  }
+ ]
+}

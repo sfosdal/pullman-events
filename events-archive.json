@@ -85,6 +85,32 @@
    "time": "19:30:00",
    "url": "https://wsucougars.com/sports/womens-volleyball/schedule",
    "type": "sports"
+  },
+  {
+   "venue": "Kibbie Dome",
+   "title": "Idaho Vandals Football vs Southern Utah Thunderbirds",
+   "date": "2026-10-24",
+   "time": "14:00:00",
+   "url": "https://govandals.com/sports/football/tickets",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "ESPN+"
+    ]
+   }
+  },
+  {
+   "venue": "Martin Stadium",
+   "title": "Washington State Cougars Football vs Boise State Broncos",
+   "date": "2026-10-24",
+   "time": "15:00:00",
+   "url": "https://wsucougars.com/sports/football/schedule",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "USA Net"
+    ]
+   }
   }
  ]
 }

@@ -103,6 +103,7 @@
   var VENUES = {
     // --- Campus and downtown: WSU's grounds and halls ---
     'Martin Stadium': {
+      geo: [46.7318, -117.16037],
       capacity: 32952,
       type: 'sports',
       cssVar: '--v-martin',
@@ -113,6 +114,7 @@
       alias: /martin stadium|gesa field/i,
     },
     'Beasley Coliseum': {
+      geo: [46.73524, -117.15811],
       capacity: 12000,
       type: 'concert',
       cssVar: '--v-beasley',
@@ -123,6 +125,7 @@
       alias: /beasley/i, // Ticketmaster also lists it as the Beasley Performing Arts Center
     },
     'Bohler Gymnasium': {
+      geo: [46.7329, -117.1622],
       capacity: 2500,
       type: 'sports',
       cssVar: '--v-bohler',
@@ -133,6 +136,7 @@
       alias: /bohler/i,
     },
     'CUB Senior Ballroom': {
+      geo: [46.73115, -117.16267],
       capacity: 1000,
       type: 'concert',
       cssVar: '--v-cub',
@@ -144,6 +148,7 @@
     },
     // --- Around the Palouse (`area: 'town'`): Moscow, ID — eight miles east — and Lewiston, ID, down the grade ---
     'Kibbie Dome': {
+      geo: [46.72624, -117.01744],
       area: 'town',
       capacity: 16000,
       type: 'sports',
@@ -155,6 +160,7 @@
       alias: /kibbie|cowan spectrum/i, // the Cowan Spectrum is the Dome's basketball floor
     },
     'ICCU Arena': {
+      geo: [46.7275, -117.01824],
       area: 'town',
       capacity: 4200,
       type: 'sports',
@@ -166,6 +172,7 @@
       alias: /iccu arena|idaho central credit union arena/i,
     },
     'Kenworthy Performing Arts Centre': {
+      geo: [46.73073, -117.00097],
       area: 'town',
       capacity: 400,
       type: 'arts',
@@ -177,6 +184,7 @@
       alias: /kenworthy/i,
     },
     'Clearwater River Casino': {
+      geo: [46.4363, -116.9084],
       area: 'town',
       capacity: 1500,
       type: 'concert',
@@ -188,6 +196,7 @@
       alias: /clearwater river casino/i,
     },
     'Liberty Theatre': {
+      geo: [46.4206, -117.0238],
       area: 'town',
       capacity: 700,
       type: 'arts',
@@ -249,6 +258,21 @@
     ics: { name: 'Pullman Events', short: 'Pullman Events', teams: 'Pullman home teams — every season', prodid: '-//here.events//pullman-events//EN', uidDomain: 'fosdal.net', // the UID domain the whole family issues (the shared ics test pins it)
       desc: 'Upcoming events around Pullman\\, WA — Martin Stadium\\, Beasley Coliseum\\, the Kibbie Dome\\, the Kenworthy and the Lewiston stages' },
     teams: TEAMS,
+    map: { // the Map view (local-map.js; the ground drawn once by scripts/build-local-map.mjs from OpenStreetMap, committed as site/local-map.json) — Steve, 2026-10-25
+      kind: 'urban',
+      bbox: [46.35, -117.45, 46.95, -116.75], // south, west, north, east — the Palouse — Pullman and Moscow at the centre, Lewiston and Clarkston at the foot, Colfax at the top
+      home: [46.72, -117.19, 46.745, -117.14], // the view at first; the fit button shows the whole frame
+      roads: ['motorway', 'trunk', 'primary'],
+      tolerance: 0.8,
+      labels: [
+        { name: 'Pullman', lat: 46.7296, lon: -117.1799, anchor: 'end' },
+        { name: 'Moscow', lat: 46.7324, lon: -117.0002, anchor: 'start' },
+        { name: 'Lewiston', lat: 46.4196, lon: -117.0216, anchor: 'start' },
+        { name: 'Clarkston', lat: 46.4163, lon: -117.0452, anchor: 'end' },
+        { name: 'Colfax', lat: 46.8802, lon: -117.3643, anchor: 'end' },
+        { name: 'Snake River', lat: 46.43, lon: -117.12, kind: 'water', anchor: 'middle' },
+      ],
+    },
     venues: VENUES,
     defaultOn: DEFAULT_ON,
     defaultOff: DEFAULT_OFF,

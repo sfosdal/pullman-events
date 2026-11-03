@@ -260,6 +260,7 @@
     teams: TEAMS,
     map: { // the Map view (local-map.js; the ground drawn once by scripts/build-local-map.mjs from OpenStreetMap, committed as site/local-map.json) — Steve, 2026-10-25
       kind: 'urban',
+      boundary: { osm: 237725 }, // the city line, always drawn (Steve, 2026-11-02): OpenStreetMap's boundary relation for Pullman
       bbox: [46.35, -117.45, 46.95, -116.75], // south, west, north, east — the Palouse — Pullman and Moscow at the centre, Lewiston and Clarkston at the foot, Colfax at the top
       home: [46.72, -117.19, 46.745, -117.14], // the view at first; the fit button shows the whole frame
       roads: ['motorway', 'trunk', 'primary'],

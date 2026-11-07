@@ -202,7 +202,6 @@
       cssVar: '--v-liberty',
       color: '#eaa786',
       url: 'https://www.ticketmaster.com/search?q=Liberty+Theatre+Lewiston', // the Lewiston house keeps no events page of its own
-      icon: 'marks/venues/ticketmaster.com.png',
       tm: { id: 'ZFr9jZ6aa7', match: 'liberty theatre', fallbackUrl: 'https://www.ticketmaster.com/search?q=Liberty+Theatre+Lewiston' },
       alias: /liberty theat/i,
     },

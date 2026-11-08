@@ -132,6 +132,27 @@
      "ESPN+"
     ]
    }
+  },
+  {
+   "venue": "Kibbie Dome",
+   "title": "Idaho Vandals Football vs. Eastern Washington Eagles Football",
+   "date": "2026-11-07",
+   "time": "14:00:00",
+   "url": "https://govandals.com/sports/football/schedule",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "ESPN+"
+    ]
+   }
+  },
+  {
+   "venue": "Clearwater River Casino",
+   "title": "Clearwater Combat MMA",
+   "date": "2026-11-07",
+   "time": "19:00:00",
+   "url": "https://crcasino.com/events/",
+   "type": "sports"
   }
  ]
 }

@@ -153,6 +153,19 @@
    "time": "19:00:00",
    "url": "https://crcasino.com/events/",
    "type": "sports"
+  },
+  {
+   "venue": "ICCU Arena",
+   "title": "Idaho Vandals Basketball vs Lincoln (CA) Oaklanders",
+   "date": "2026-11-08",
+   "time": "14:00:00",
+   "url": "https://govandals.com/sports/mens-basketball/schedule",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "ESPN+"
+    ]
+   }
   }
  ]
 }

@@ -187,6 +187,45 @@
      "ESPN+"
     ]
    }
+  },
+  {
+   "venue": "Beasley Coliseum",
+   "title": "Washington State Cougars Basketball vs Northwest University Eagles",
+   "date": "2026-11-14",
+   "time": "10:00:00",
+   "url": "https://wsucougars.com/sports/mens-basketball/schedule",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "YouTube"
+    ]
+   }
+  },
+  {
+   "venue": "Kibbie Dome",
+   "title": "Idaho Vandals Football vs. UC Davis Aggies Football",
+   "date": "2026-11-14",
+   "time": "13:00:00",
+   "url": "https://govandals.com/sports/football/schedule",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "ESPN+"
+    ]
+   }
+  },
+  {
+   "venue": "Martin Stadium",
+   "title": "Washington State  Cougars Football vs. Colorado State University Rams Football",
+   "date": "2026-11-14",
+   "time": "19:30:00",
+   "url": "https://wsucougars.com/sports/football/schedule",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "CBSSN"
+    ]
+   }
   }
  ]
 }

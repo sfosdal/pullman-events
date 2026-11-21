@@ -242,6 +242,19 @@
    "time": "18:00:00",
    "url": "https://wsucougars.com/sports/womens-volleyball/schedule",
    "type": "sports"
+  },
+  {
+   "venue": "ICCU Arena",
+   "title": "Idaho Vandals Basketball vs Cal State Bakersfield Roadrunners",
+   "date": "2026-11-20",
+   "time": "18:00:00",
+   "url": "https://govandals.com/sports/mens-basketball/schedule",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "ESPN+"
+    ]
+   }
   }
  ]
 }
